@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Pet CRUD test","This will create new user","SUCCESS","2023-01-03T21:27:27.814Z[Europe/London]","0.0","13.36"
+"Pet CRUD test","This test will Update the user information","SUCCESS","2023-01-03T21:27:41.220Z[Europe/London]","0.0","1.39"
+"Pet CRUD test","Delete the pet and verify if the user is deleted!","SUCCESS","2023-01-03T21:27:42.614Z[Europe/London]","0.0","1.15"
+"User CURD test","This will create new user","SUCCESS","2023-01-03T21:27:46.792Z[Europe/London]","0.0","0.65"
+"User CURD test","This test will Update the user information","SUCCESS","2023-01-03T21:27:47.444Z[Europe/London]","0.0","1.23"
+"User CURD test","Delete the pet and verify if the user is deleted!","SUCCESS","2023-01-03T21:27:48.675Z[Europe/London]","0.0","1.16"
